@@ -12,3 +12,10 @@ D:\LCSDMS_Images_Migration\LCSDMS_Images_Migration\obj\Debug\LCSDMS_Images_Migra
 D:\LCSDMS_Images_Migration\LCSDMS_Images_Migration\obj\Debug\LCSDMS_Images_Migration.exe
 D:\LCSDMS_Images_Migration\LCSDMS_Images_Migration\obj\Debug\LCSDMS_Images_Migration.pdb
 D:\LCSDMS_Images_Migration\LCSDMS_Images_Migration\obj\Debug\LCSDMS_Images_Migration.csprojAssemblyReference.cache
+D:\GIT\LCSDMS-GraphicsMigration_Utility\LCSDMS-GraphicsMigration_Utility\bin\Debug\LCSDMS_Images_Migration.exe.config
+D:\GIT\LCSDMS-GraphicsMigration_Utility\LCSDMS-GraphicsMigration_Utility\bin\Debug\LCSDMS_Images_Migration.exe
+D:\GIT\LCSDMS-GraphicsMigration_Utility\LCSDMS-GraphicsMigration_Utility\bin\Debug\LCSDMS_Images_Migration.pdb
+D:\GIT\LCSDMS-GraphicsMigration_Utility\LCSDMS-GraphicsMigration_Utility\obj\Debug\LCSDMS_Images_Migration.csproj.AssemblyReference.cache
+D:\GIT\LCSDMS-GraphicsMigration_Utility\LCSDMS-GraphicsMigration_Utility\obj\Debug\LCSDMS_Images_Migration.csproj.CoreCompileInputs.cache
+D:\GIT\LCSDMS-GraphicsMigration_Utility\LCSDMS-GraphicsMigration_Utility\obj\Debug\LCSDMS_Images_Migration.exe
+D:\GIT\LCSDMS-GraphicsMigration_Utility\LCSDMS-GraphicsMigration_Utility\obj\Debug\LCSDMS_Images_Migration.pdb
