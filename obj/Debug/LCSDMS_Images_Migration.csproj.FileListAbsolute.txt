@@ -1,0 +1,14 @@
+C:\Users\aabbas\source\repos\LCSDMS_Images_Migration\bin\Debug\LCSDMS_Images_Migration.exe.config
+C:\Users\aabbas\source\repos\LCSDMS_Images_Migration\bin\Debug\LCSDMS_Images_Migration.exe
+C:\Users\aabbas\source\repos\LCSDMS_Images_Migration\bin\Debug\LCSDMS_Images_Migration.pdb
+C:\Users\aabbas\source\repos\LCSDMS_Images_Migration\obj\Debug\LCSDMS_Images_Migration.csproj.AssemblyReference.cache
+C:\Users\aabbas\source\repos\LCSDMS_Images_Migration\obj\Debug\LCSDMS_Images_Migration.csproj.CoreCompileInputs.cache
+C:\Users\aabbas\source\repos\LCSDMS_Images_Migration\obj\Debug\LCSDMS_Images_Migration.exe
+C:\Users\aabbas\source\repos\LCSDMS_Images_Migration\obj\Debug\LCSDMS_Images_Migration.pdb
+D:\LCSDMS_Images_Migration\LCSDMS_Images_Migration\bin\Debug\LCSDMS_Images_Migration.exe.config
+D:\LCSDMS_Images_Migration\LCSDMS_Images_Migration\bin\Debug\LCSDMS_Images_Migration.exe
+D:\LCSDMS_Images_Migration\LCSDMS_Images_Migration\bin\Debug\LCSDMS_Images_Migration.pdb
+D:\LCSDMS_Images_Migration\LCSDMS_Images_Migration\obj\Debug\LCSDMS_Images_Migration.csproj.CoreCompileInputs.cache
+D:\LCSDMS_Images_Migration\LCSDMS_Images_Migration\obj\Debug\LCSDMS_Images_Migration.exe
+D:\LCSDMS_Images_Migration\LCSDMS_Images_Migration\obj\Debug\LCSDMS_Images_Migration.pdb
+D:\LCSDMS_Images_Migration\LCSDMS_Images_Migration\obj\Debug\LCSDMS_Images_Migration.csprojAssemblyReference.cache
